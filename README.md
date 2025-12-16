@@ -1,2 +1,2 @@
-# VSudio
-Python teaching/learning class
+# Gesundheitsüberwachung
+Ein Baustein für die Entwicklung einer gesunden Gesellschaft.
